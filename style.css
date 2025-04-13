@@ -1,0 +1,79 @@
+body {
+    background-color: #FFFFFF;
+    margin: 0;
+}
+.main {
+    background-image: url(./images/back3.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-size: 2rem;
+    position: relative;
+    text-align: center;
+    position: relative;
+}
+.bg {
+    background-color: #1A1A1A;
+}
+.main {
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.text {
+    padding-top: 200px;
+}
+.text h1 {
+    color: whitesmoke;
+    font-size: 4.5rem;
+    margin: 40px auto 0 auto;
+    font-family: "Sacramento", cursive;
+}
+.text h2 {
+    padding-top: 50px;
+}
+.profile-img {
+    border-radius: 60%;
+    padding-bottom: 50px;
+}
+.profile h2 {
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 30px;
+}
+.my-skills h2 {
+    text-align: center;
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 30px;
+    margin: 30px auto;
+}
+.my-skills {
+    display: grid;
+    justify-content: center;
+}
+.my-skills h3{
+    text-align: center;
+    padding-bottom: 10px;
+    color: #11999e;
+    font-family: "Montserrat" sans-serif;
+}
+.row {
+    margin-bottom: 100px;
+}
+hr {
+    margin: 50px;
+}
+/*h2 contact color*/
+.con-color {
+    color: #11999e;
+    font-family: "Montserrat" sans-serif;
+}
+.bottom {
+    background-color: #66BFBF;
+    margin: 0;
+}
