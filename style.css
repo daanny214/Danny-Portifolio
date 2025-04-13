@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 .main {
-    background-image: url(./images/back3.jpg);
+    background-image: url(./assets/images/back3.jpg);
     background-size: cover;
     background-position: center;
     color: white;
